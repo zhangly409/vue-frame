@@ -4,7 +4,7 @@
 
 1. 生成项目
 
-    你可以使用`vue-frame-cli`工具，以该`Git`项目为模板初始化一个标准的`Vue`项目（推荐）。
+    你可以使用`vue-frame-cli`脚手架，以该`Git`项目为模板初始化一个标准的`Vue`项目（推荐）。
 
     ```bash
     npm install vue-frame-cli
