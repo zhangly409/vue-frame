@@ -7,7 +7,7 @@
     你可以使用`vue-frame-cli`工具，以该`Git`项目为模板初始化一个标准的`Vue`项目（推荐）。
 
     ```bash
-    npm install
+    npm install vue-frame-cli
     vue-frame init <your project name>
     cd <your project name>
     ```
